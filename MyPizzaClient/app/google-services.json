@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "475613958962",
+    "firebase_url": "https://mypizzapplication.firebaseio.com",
+    "project_id": "mypizzapplication",
+    "storage_bucket": "mypizzapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475613958962:android:727a34ad28943adf",
+        "android_client_info": {
+          "package_name": "com.example.kiwi.mypizzapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475613958962-naksghvjb0u2oog1tchbjm5g3imr8ela.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiwi.mypizzapplication",
+            "certificate_hash": "fcc640ce25e213738ca5c251e2d0e1636bc420c9"
+          }
+        },
+        {
+          "client_id": "475613958962-dh68a71lde3o5h93r0q91og2h2kgji7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBdWsAlVc0ojVPYIaJ83_6MfpQipqhLEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475613958962-dh68a71lde3o5h93r0q91og2h2kgji7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475613958962:android:3f7e1d4e50c4462f",
+        "android_client_info": {
+          "package_name": "com.example.kiwi.mypizzaclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475613958962-61sffdkb3ti272ktl97algr0h9k1h47g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiwi.mypizzaclient",
+            "certificate_hash": "fcc640ce25e213738ca5c251e2d0e1636bc420c9"
+          }
+        },
+        {
+          "client_id": "475613958962-dh68a71lde3o5h93r0q91og2h2kgji7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBdWsAlVc0ojVPYIaJ83_6MfpQipqhLEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475613958962-dh68a71lde3o5h93r0q91og2h2kgji7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
